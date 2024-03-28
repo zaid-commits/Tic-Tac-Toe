@@ -35,8 +35,8 @@ This is a simple Tic Tac Toe game implemented in VB.NET. It allows two players t
 
 ## Contributing
 
-Contributions are welcome! Feel free to fork the repository and submit pull requests to suggest improvements or fix bugs.
-feel free to contact at: zaidcommits.github@gmail.com
+- Contributions are welcome! Feel free to fork the repository and submit pull requests to suggest improvements or fix bugs.
+- feel free to contact at: zaidcommits.github@gmail.com
 
 ## License
 
